@@ -33,7 +33,41 @@ jQuery('.owl-blog-post').owlCarousel({
         }
     }
 });
+jQuery('.post-news').owlCarousel({
+  loop:true,
+  margin:25,
+  dots: false,
+  nav:true,
+  responsive:{
+      0:{
+          items:1
+      },
+      600:{
+          items:3
+      },
+      1000:{
+          items:4
+      }
+  }
+});
 
+jQuery('.owl-partner').owlCarousel({
+  loop:true,
+  margin:0,
+  dots: false,
+  nav:false,
+  responsive:{
+      0:{
+          items:1
+      },
+      600:{
+          items:3
+      },
+      1000:{
+          items:4
+      }
+  }
+});
 
 var a = 0;
 $(window).scroll(function() {
