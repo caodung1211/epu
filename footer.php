@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-4 col-12">
                 <h2 class="title-heading-footer">KHÓA HỌC SẮP KHAI GIẢNG</h2>
-                <ul>
+                <ul class="course">
                     <li>LẬP TRÌNH VIÊN QUỐC TẾ</li>
                     <li>LẬP TRÌNH VIÊN QUỐC TẾ</li>
                     <li>LẬP TRÌNH VIÊN QUỐC TẾ</li>
@@ -12,7 +12,7 @@
             </div>
             <div class="col-md-4 col-12">
                 <h2 class="title-heading-footer">LIÊN HỆ</h2>  
-                <ul>
+                <ul class="address">
                     <li>19 Nguyễn Trãi, Ngã Tư Sở, Hà Nội</li>
                     <li>Tel: (024) 3563 7511 </li>
                     <li>Hotline: 0382020858 </li>

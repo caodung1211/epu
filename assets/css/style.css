@@ -6,6 +6,9 @@
 a:hover{
     text-decoration: none;
 }
+ul{
+    list-style: none;
+}
 img{
     width: 100%;
 }
@@ -361,27 +364,73 @@ hr.section-hr{
 .blog-post-news{
     background: #E9E9E9B5;
 }
-.blog-post-news h2{
+.blog-post-news h2,.partner h2{
     text-align: center;
     font-size: 35px;
     margin-bottom: 40px;
 }
-.blog-post-news .item{
-    padding: 15px;
+.item{
+    padding: 5px;
 }
-.blog-post-news .item .post-item .box-text{
+.item .post-item .box-text{
     border-radius: 5px;
     box-shadow: 0px 0px 5px 3px #d1d8e0;
     padding: 5px 15px 10px 15px;
+    background: #fff;
 }
-.blog-post-news .item .post-item .box-text .post-desc{
+.item .post-item .box-text p{
+    margin: 0;
+}
+.post-item .box-text .post-desc{
     overflow: hidden;
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
 }
-
+.post-item .box-text p.meta-date,.post-item .box-text p.post-meta{
+    color: #0B249E;
+    margin-bottom: 4px;
+}
+.btn-readmore {
+    color: #fff;
+    background: #0B249E;
+    padding: 5px 17px;
+    display: inline-block;
+    margin: 20px 0 0;
+    border-radius: 6px;
+}
 /* footer */
+.footer{
+    background: #2c2c54;
+    color: #fff;
+}
+.title-heading-footer {
+    font-size: 25px;
+    position: relative;
+    margin-bottom: 40px;
+}
+.course li {
+    margin-bottom: 10px;
+    font-size: 19px;
+    position: relative;
+    padding-left: 10px;
+}
+.course li::before{
+    content: '\f0da';
+    font-family: "Font Awesome 5 Free";
+    display: block;
+    vertical-align: middle;
+    position: absolute;
+    left: 0;
+    font-weight: 900;
+}
+.footer .form-tuvan{
+    margin: 0;
+}
+.footer .address li{
+    margin-bottom: 10px;
+    font-size: 19px; 
+}
 .call-now-button {
     display: flex;
     z-index: 9999;

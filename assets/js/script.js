@@ -19,7 +19,6 @@ jQuery('.owl-banner-top').owlCarousel({
 jQuery('.owl-blog-post').owlCarousel({
     loop:true,
     margin:50,
-    dots: false,
     nav:true,
     responsive:{
         0:{
@@ -35,7 +34,7 @@ jQuery('.owl-blog-post').owlCarousel({
 });
 jQuery('.post-news').owlCarousel({
   loop:true,
-  margin:25,
+  margin:15,
   nav:true,
   responsive:{
       0:{
@@ -52,9 +51,9 @@ jQuery('.post-news').owlCarousel({
 
 jQuery('.owl-partner').owlCarousel({
   loop:true,
-  margin:0,
+  margin:15,
   dots: false,
-  nav:false,
+  nav:true,
   responsive:{
       0:{
           items:1
