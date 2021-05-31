@@ -35,7 +35,7 @@
                         <div class="box-img">
                             <img src="images/IMG_6158-1365x1024-1.jpg" alt="" srcset="">
                         </div>
-                        <div class="bot-text">
+                        <div class="box-text">
                             <p>Hanoi Aptech có 20 năm kinh nghiệm đào tạo lập trình và các lĩnh vực trong ngành CNTT. Chương trình học chuẩn Aptech Quốc Tế với phương pháp dạy hiện đai, tập trung thực hành, làm dự án thực tế.</p>
                         </div>
                     </div>
@@ -45,7 +45,7 @@
                         <div class="box-img">
                             <img src="images/IMG_6158-1365x1024-1.jpg" alt="" srcset="">
                         </div>
-                        <div class="bot-text">
+                        <div class="box-text">
                             <p>Hanoi Aptech có 20 năm kinh nghiệm đào tạo lập trình và các lĩnh vực trong ngành CNTT. Chương trình học chuẩn Aptech Quốc Tế với phương pháp dạy hiện đai, tập trung thực hành, làm dự án thực tế.</p>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                         <div class="box-img">
                             <img src="images/IMG_6158-1365x1024-1.jpg" alt="" srcset="">
                         </div>
-                        <div class="bot-text">
+                        <div class="box-text">
                             <p>Hanoi Aptech có 20 năm kinh nghiệm đào tạo lập trình và các lĩnh vực trong ngành CNTT. Chương trình học chuẩn Aptech Quốc Tế với phương pháp dạy hiện đai, tập trung thực hành, làm dự án thực tế.</p>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                         <div class="box-img">
                             <img src="images/IMG_6158-1365x1024-1.jpg" alt="" srcset="">
                         </div>
-                        <div class="bot-text">
+                        <div class="box-text">
                             <p>Hanoi Aptech có 20 năm kinh nghiệm đào tạo lập trình và các lĩnh vực trong ngành CNTT. Chương trình học chuẩn Aptech Quốc Tế với phương pháp dạy hiện đai, tập trung thực hành, làm dự án thực tế.</p>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                         <div class="box-img">
                             <img src="images/IMG_6158-1365x1024-1.jpg" alt="" srcset="">
                         </div>
-                        <div class="bot-text">
+                        <div class="box-text">
                             <p>Hanoi Aptech có 20 năm kinh nghiệm đào tạo lập trình và các lĩnh vực trong ngành CNTT. Chương trình học chuẩn Aptech Quốc Tế với phương pháp dạy hiện đai, tập trung thực hành, làm dự án thực tế.</p>
                         </div>
                     </div>
@@ -85,7 +85,7 @@
                         <div class="box-img">
                             <img src="images/IMG_6158-1365x1024-1.jpg" alt="" srcset="">
                         </div>
-                        <div class="bot-text">
+                        <div class="box-text">
                             <p>Hanoi Aptech có 20 năm kinh nghiệm đào tạo lập trình và các lĩnh vực trong ngành CNTT. Chương trình học chuẩn Aptech Quốc Tế với phương pháp dạy hiện đai, tập trung thực hành, làm dự án thực tế.</p>
                         </div>
                     </div>
@@ -316,7 +316,7 @@
                         <div class="box-img">
                             <img src="images/IMG_6158-1365x1024-1.jpg" alt="" srcset="">
                         </div>
-                        <div class="bot-text">
+                        <div class="box-text">
                             <p class="meta-date"><i class="far fa-calendar"></i> 20/05/2021</p>
                             <p class="post-meta"><i class="far fa-folder"></i> Tin về</p>
                             <p>Hanoi Aptech có 20 năm kinh nghiệm đào tạo lập trình và các lĩnh vực trong ngành CNTT. Chương trình học chuẩn Aptech Quốc Tế với phương pháp dạy hiện đai, tập trung thực hành, làm dự án thực tế.</p>
