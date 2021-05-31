@@ -36,7 +36,16 @@
 </section>
 
 
-
+<div class="call-now-button ui-draggable ui-draggable-handle" id="draggable">
+					<div>
+						<p class="call-text"> 0382020858 </p>
+						<a href="tel:0382020858" id="quickcallbutton" onclick="ga('send', 'event', 'Contact', 'Quick Call Button', 'Phone');" title="Call Now">
+						<div class="quick-alo-ph-circle active"></div>
+						<div class="quick-alo-ph-circle-fill active"></div>
+						<div class="quick-alo-ph-img-circle shake"></div>
+						</a>
+					</div>
+				</div>
 
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

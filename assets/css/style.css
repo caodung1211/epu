@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+a:hover{
+    text-decoration: none;
+}
 img{
     width: 100%;
 }
@@ -36,7 +39,7 @@ hr.section-hr{
 }
 .owl-blog-post .item .post-item{
     border-radius: 5px;
-    background: #d1d8e0;
+    box-shadow: 0px 0px 5px 3px #d1d8e0;
 }
 .owl-blog-post .item .post-item .box-text{
     padding: 17px;
@@ -94,4 +97,421 @@ hr.section-hr{
 .contact{
     background-color: transparent;
     background-image: linear-gradient(180deg, #000D75 0%, #65379A 100%);
+}
+.contact .box-text {
+    color: #fff;
+    text-align: center;
+}
+.contact .box-text h2{
+    position: relative;
+    margin-bottom: 40px;
+}
+.contact .box-text h2::before{
+    content: '';
+    background: #fff;
+    width: 250px;
+    margin: 0 auto;
+    height: 2px;
+    display: block;
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.form-tuvan input {
+    width: 100%;
+    padding: 5px 10px;
+    margin-bottom: 15px;
+    background: none;
+    box-shadow: none;
+    border: none;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+}
+.form-tuvan button{
+    background: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 7px 40px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.form-tuvan{
+    margin-top: 50px;
+    text-align: center;
+}
+.contact .box-counter {
+    width: 25%;
+    float: left;
+    text-align: center;
+    position: relative;
+}
+.contact .box-counter p:nth-child(1){
+    color: #FFC307;
+    font-size: 20px;
+    font-weight: 600;
+}
+.contact .box-counter p:nth-child(2){
+    color: #fff;
+    font-size: 22px;
+    font-weight: 500;
+}
+.contact .box-counter span.counter-value {
+    color: #FFC307;
+    font-size: 60px;
+    font-weight: 600;
+}
+.contact .box-counter:before {
+    content: '';
+    background: #fff;
+    display: block;
+    width: 2px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.join-course h2 {
+    color: #0B249E;
+    font-size: 42px;
+    font-weight: 600;
+  }
+  
+  .join-course {
+    text-align: center;
+  }
+  
+  .join-course h3 {
+    font-size: 23px;
+    margin: 35px auto;
+    display: block;
+  }
+  
+  .join-course p {
+    font-style: italic;
+    font-size: 22px;
+  }
+  
+  .join-course .col-right {
+    padding: 0px 50px;
+  }
+  
+  .join-course a {
+    color: #fff;
+    background: #000;
+    padding: 10px 40px;
+    margin: 16px 0;
+    display: inline-block;
+  }
+  
+  .join-course a:hover {
+    text-decoration: navajowhite;
+  }
+  
+  .join-course a {
+    transition: all 0.3s;
+  }
+  
+  .join-course .col-right {
+    position: relative;
+  }
+  .join-course .col-right::before {
+    content: '';
+    background: #FF7B06;
+    display: block;
+    width: 4px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+.s4{
+    background-image: linear-gradient(180deg, #0B31D2 0%, #12BABA 100%);
+}
+.s4 h2 {
+    color: #fff;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 41px;
+    font-weight: 600;
+  }
+  .s4 .box-icon .box-img {
+    float: left;
+    margin-right: 20px;
+  }
+  .s4 .box-icon .box-img i {
+    font-size: 29px;
+    color: #fff;
+    padding: 20px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+  }
+  .s4 .box-icon .box-text {
+    color: #fff;
+  }
+  
+  .s4 .box-icon .box-text p:nth-child(1) {
+    font-size: 23px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  
+  .s4 .box-icon {
+    display: flex;
+    align-items: center;
+    padding: 15px 0;
+  }
+
+
+/* Trong dòng #6 | http://localhost:9999/epu/ */
+
+.s5 {
+    text-align: center;
+    position: relative;
+  }
+  .s5 h2 {
+    font-size: 27px;
+  }
+  .s5 h3 {
+    font-size: 33px;
+    margin: 60px 0;
+    font-weight: 600;
+  }
+
+  .s5 a {
+    background: #FFF006;
+    color: #000;
+    font-size: 19px;
+    font-weight: 600;
+    padding: 13px 60px;
+    border-radius: 10px;
+    transition: all 0.5s;
+  }
+  .s5::before {
+    content: url(../../images/Group-44.png);
+    display: block;
+    position: absolute;
+    top: 7%;
+    left: 3%;
+}
+.s5::after {
+    content: url(../../images/Group-44.png);
+    display: block;
+    position: absolute;
+    bottom: 7%;
+    right: 3%;
+    transform: rotate(180deg);
+}
+
+.s6{
+    background-image: linear-gradient(180deg, #4A1BD4 0%, #17C2DC 100%);
+}
+.s6 h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 33px;
+    font-weight: 600;
+    margin-bottom: 70px;
+    position: relative;
+  }
+  
+  .s6 h2::before {
+    content: '';
+    background: #fff;
+    width: 250px;
+    height: 3px;
+    display: block;
+    position: absolute;
+    bottom: -25px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+  
+  .s6 .col-lydo .row {
+    align-items: center;
+    border: 1px solid #000 !important;
+  }
+  
+  .s6 .col-lydo .box-text {
+    color: #fff;
+  }
+  
+  .s6 .col-lydo .box-text h3 {
+    font-weight: 600;
+    font-size: 23px;
+    margin-bottom: 10px;
+  }
+  
+  .s6 .col-lyd {
+    border: 1px solid #000 !important;
+    display: block;
+  }
+  .s6 .col-lydo .box-img {
+    float: left;
+    width: 111px;
+}
+.s6 .btn-tuvan {
+    color: #fff;
+    text-align: center;
+    background: #000;
+    padding: 10px 40px;
+    display: inline-block;
+    margin-top: 50px;
+}
+.blog-post-news{
+    background: #E9E9E9B5;
+}
+.blog-post-news h2{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 40px;
+}
+.blog-post-news .item{
+    padding: 15px;
+}
+.blog-post-news .item .post-item .box-text{
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 3px #d1d8e0;
+    padding: 5px 15px 10px 15px;
+}
+.blog-post-news .item .post-item .box-text .post-desc{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+/* footer */
+.call-now-button {
+    display: flex;
+    z-index: 9999;
+    clear: both;
+    margin: 0 auto;
+    position: fixed;
+    border-radius: 50px;
+    left: 50px;
+    bottom: 50px;
+    background: #00993a;
+}
+.call-now-button .call-text {
+    color: #ffffff;
+}
+.call-now-button div p {
+    color: #fff;
+    display: table;
+    padding: 10px;
+    border-radius: 21px;
+    height: 34px;
+    line-height: 14px;
+    font-size: 14px;
+    margin: 8px 5px 8px 50px;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: center;
+    box-sizing: content-box;
+    text-decoration: none!important;
+    box-sizing: border-box;
+}
+.quick-alo-ph-circle.active {
+    width: 130px;
+    height: 130px;
+    top: -40px;
+    left: -40px;
+    position: absolute;
+    background-color: transparent;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    border: 2px solid rgba(30,30,30,.4);
+    opacity: 1;
+    -webkit-animation: quick-alo-circle-anim 1.2s infinite ease-in-out;
+    -moz-animation: quick-alo-circle-anim 1.2s infinite ease-in-out;
+    -ms-animation: quick-alo-circle-anim 1.2s infinite ease-in-out;
+    -o-animation: quick-alo-circle-anim 1.2s infinite ease-in-out;
+    animation: quick-alo-circle-anim 1.2s infinite ease-in-out;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+.call-now-button div a .quick-alo-ph-img-circle, .call-now-button div a .quick-alo-phone-img-circle {
+    background-color: #119900;
+}
+.quick-alo-ph-img-circle.shake {
+    width: 50px;
+    height: 50px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    border: 2px solid transparent;
+    opacity: 1;
+    background: url(../../images/quick-call-button.png) no-repeat center center;
+    -webkit-animation: quick-alo-circle-img-anim 1s infinite ease-in-out;
+    -moz-animation: quick-alo-circle-img-anim 1s infinite ease-in-out;
+    -ms-animation: quick-alo-circle-img-anim 1s infinite ease-in-out;
+    -o-animation: quick-alo-circle-img-anim 1s infinite ease-in-out;
+    animation: quick-alo-circle-img-anim 1s infinite ease-in-out;
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+.quick-alo-ph-circle.active {
+    width: 130px;
+    height: 130px;
+    top: -40px;
+    left: -40px;
+    position: absolute;
+    background-color: transparent;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    border: 2px solid rgba(30,30,30,.4);
+    opacity: 1;
+    -webkit-animation: quick-alo-circle-anim 1.2s infinite ease-in-out;
+    -moz-animation: quick-alo-circle-anim 1.2s infinite ease-in-out;
+    -ms-animation: quick-alo-circle-anim 1.2s infinite ease-in-out;
+    -o-animation: quick-alo-circle-anim 1.2s infinite ease-in-out;
+    animation: quick-alo-circle-anim 1.2s infinite ease-in-out;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+.call-now-button div {
+    display: flex;
+}
+@keyframes quick-alo-circle-anim{
+    0% {
+        -webkit-transform: rotate(0) scale(.5) skew(
+    1deg
+    );
+        -webkit-opacity: .1;
+    }
+    30% {
+        -webkit-transform: rotate(0) scale(.7) skew(
+    1deg
+    );
+        -webkit-opacity: .5;
+    }
+    100% {
+        -webkit-transform: rotate(0) scale(1) skew(
+    1deg
+    );
+        -webkit-opacity: .1;
+}
 }

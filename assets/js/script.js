@@ -36,7 +36,6 @@ jQuery('.owl-blog-post').owlCarousel({
 jQuery('.post-news').owlCarousel({
   loop:true,
   margin:25,
-  dots: false,
   nav:true,
   responsive:{
       0:{

@@ -234,72 +234,60 @@
             <h2>LÝ DO BẠN NÊN HỌC LẬP TRÌNH TẠI HANOI APTECH</h2>
             <div class="row">
                 <div class="col-md-6 col-12 col-lydo">
-                    <div class="row">
-                        <div class="col-md-3 col-12 box-img">
-                            <img src="images/gold-medal.svg" alt="" srcset="">
-                        </div>
-                        <div class="col-md-9 col-12 box-text">
-                            <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
-                            <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
-                        </div>
+                    <div class="box-img">
+                        <img src="images/gold-medal.svg" alt="" srcset="">
+                    </div>
+                    <div class="box-text">
+                        <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
+                        <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-12 col-lydo">
-                    <div class="row">
-                        <div class="col-md-3 col-12 box-img">
-                            <img src="images/gold-medal.svg" alt="" srcset="">
-                        </div>
-                        <div class="col-md-9 col-12 box-text">
-                            <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
-                            <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
-                        </div>
+                    <div class="box-img">
+                        <img src="images/gold-medal.svg" alt="" srcset="">
+                    </div>
+                    <div class="box-text">
+                        <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
+                        <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-12 col-lydo">
-                    <div class="row">
-                        <div class="col-md-3 col-12 box-img">
-                            <img src="images/gold-medal.svg" alt="" srcset="">
-                        </div>
-                        <div class="col-md-9 col-12 box-text">
-                            <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
-                            <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
-                        </div>
+                    <div class="box-img">
+                        <img src="images/gold-medal.svg" alt="" srcset="">
+                    </div>
+                    <div class="box-text">
+                        <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
+                        <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-12 col-lydo">
-                    <div class="row">
-                        <div class="col-md-3 col-12 box-img">
-                            <img src="images/gold-medal.svg" alt="" srcset="">
-                        </div>
-                        <div class="col-md-9 col-12 box-text">
-                            <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
-                            <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
-                        </div>
+                    <div class="box-img">
+                        <img src="images/gold-medal.svg" alt="" srcset="">
+                    </div>
+                    <div class="box-text">
+                        <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
+                        <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-12 col-lydo">
-                    <div class="row">
-                        <div class="col-md-3 col-12 box-img">
-                            <img src="images/gold-medal.svg" alt="" srcset="">
-                        </div>
-                        <div class="col-md-9 col-12 box-text">
-                            <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
-                            <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
-                        </div>
+                    <div class="box-img">
+                        <img src="images/gold-medal.svg" alt="" srcset="">
+                    </div>
+                    <div class="box-text">
+                        <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
+                        <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-12 col-lydo">
-                    <div class="row">
-                        <div class="col-md-3 col-12 box-img">
-                            <img src="images/gold-medal.svg" alt="" srcset="">
-                        </div>
-                        <div class="col-md-9 col-12 box-text">
-                            <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
-                            <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
-                        </div>
+                    <div class="box-img">
+                        <img src="images/gold-medal.svg" alt="" srcset="">
+                    </div>
+                    <div class="box-text">
+                        <h3>SỐ 1 VỀ ĐÀO TẠO CNTT TẠI VN</h3>
+                        <p>Aptech tư hào 17 năm liên tiếp đạt danh hiệu Đơn vị đào tạo số 1 về CNTT tại Việt Nam. Phát triển chất lượng giáo dục trên hơn 40 Quốc Gia.</p>
                     </div>
                 </div>
-                <div class="col-12">
+                <div class="col-12" style="text-align:center">
                     <a href="#" class="btn-tuvan">Nhận tư vấn</a>
                 </div>
             </div>
@@ -319,7 +307,7 @@
                         <div class="box-text">
                             <p class="meta-date"><i class="far fa-calendar"></i> 20/05/2021</p>
                             <p class="post-meta"><i class="far fa-folder"></i> Tin về</p>
-                            <p>Hanoi Aptech có 20 năm kinh nghiệm đào tạo lập trình và các lĩnh vực trong ngành CNTT. Chương trình học chuẩn Aptech Quốc Tế với phương pháp dạy hiện đai, tập trung thực hành, làm dự án thực tế.</p>
+                            <p class="post-desc">Hanoi Aptech có 20 năm kinh nghiệm đào tạo lập trình và các lĩnh vực trong ngành CNTT. Chương trình học chuẩn Aptech Quốc Tế với phương pháp dạy hiện đai, tập trung thực hành, làm dự án thực tế.</p>
                             <a href="#" class="btn-readmore">Đọc thêm...</a>
                         </div>
                     </div>
